@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c564835-2c5e-45b1-abcd-c7a3680bbb12" name="VerzamelaarsFTP" url="http://89797.stu.sd-lab.nl/Crud">
+        <fileTransfer rootFolder="/httpdocs/Crud" host="web03.sd-lab.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
